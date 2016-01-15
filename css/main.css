@@ -1,9 +1,9 @@
-
 body {
   background-color: #FF8000;
   color: white;
   margin: 0 ;
-  margin-top: 2%}
+  margin-top: 2%;
+}
 
 
 article, footer, iframe{
@@ -16,7 +16,7 @@ body> header{
 }
 
 title::first-letter{
-  font-size: 18  
+  font-size: 18
 }
 
 article{
@@ -41,7 +41,8 @@ blockquote {
   padding: 0.5em 10px
 }
 
-nav {text-align: center;
+nav {
+  text-align: center;
   padding-top: 2%;
 }
 
@@ -56,8 +57,9 @@ nav>a {
 }
 
 
-h1
-{  margin-left: auto;
+
+
+h1 {  margin-left: auto;
   margin-right: auto;
   font-size: 14;
   text-shadow: -1px -1px #eee, 1px 1px #888, -3px 0 4px #000;
